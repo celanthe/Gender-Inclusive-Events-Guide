@@ -2,7 +2,7 @@
 
 ### Premise(s):
 
-* Language shapes reality. By naming things we define them.
+* Language shapes reality. By naming things, we define them.
 * Terms we use can include/exclude, create awareness and trust or break it.
 
 ### Path:
